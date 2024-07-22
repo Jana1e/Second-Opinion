@@ -131,7 +131,7 @@ class _HomePageState  extends State<HomePage> {
                           child: Text(
                             'Book An Appointment',
                             style: TextStyle(
-                              fontSize: 10,
+                              fontSize: 9,
                               color: Colors.black,
                             ),
                           ),
